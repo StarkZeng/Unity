@@ -8,7 +8,7 @@ public class VertexModeify : MonoBehaviour {
 
     // Use this for initialization
     [HideInInspector]
-    public float ConrolPointSize;
+    public float ConrolPointSize = 1;
 
     Vector3[] OriVecties;
     Vector3[] Vectices;

@@ -55,9 +55,6 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-     <Compile Include="Assets\MeshEditor\ContorlPoint.cs" />
-     <Compile Include="Assets\MeshEditor\VertexModeify.cs" />
-     <Compile Include="Assets\MeshEditor\VertexModeifyEditor.cs" />
      <Compile Include="Assets\Script\MeshEditor\ContorlPoint.cs" />
      <Compile Include="Assets\Script\MeshEditor\VertexModeify.cs" />
      <Compile Include="Assets\Script\MeshEditor\VertexModeifyEditor.cs" />
