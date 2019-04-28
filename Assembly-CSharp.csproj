@@ -58,7 +58,7 @@
      <Compile Include="Assets\Script\MeshEditor\ContorlPoint.cs" />
      <Compile Include="Assets\Script\MeshEditor\VertexModeify.cs" />
      <Compile Include="Assets\Script\MeshEditor\VertexModeifyEditor.cs" />
-     <None Include="Assets\Resources\Water\vertexAnimation.shader" />
+     <None Include="Assets\Resources\Water\water.shader" />
  <Reference Include="Unity.Timeline.Editor">
  <HintPath>/Users/zengqiang/Documents/GitHub/Unity/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
  </Reference>
